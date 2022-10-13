@@ -24,3 +24,26 @@
 body {
   background-color: rgb(128, 55, 55);
 }
+
+.emphasis {
+  background-color: rgb(179, 136, 136);
+  display: block;
+  padding: 10px;
+  margin: 10px;
+}
+
+.lead {
+  color:rgb(179, 136, 136);
+}
+
+.col-sm-3 {
+  color: rgb(128, 55, 55);
+}
+
+.nav-link {
+  color:rgb(179, 136, 136);
+}
+
+a:hover {
+  color:beige;
+}
