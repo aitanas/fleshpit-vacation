@@ -1,0 +1,10 @@
+#poster {
+  max-width: fit-content;
+  max-height: 500px;
+  padding: 20px;
+}
+
+.jumbotron {
+  background-image: url(https://64.media.tumblr.com/20d7010687abb40c1cbcfb8fbe41b28b/4cd445db4e9237b8-e5/s1280x1920/5101678ef3a9f5442d90d9bcf706d536e9744e15.jpg);
+  background-repeat: no-repeat;
+}
