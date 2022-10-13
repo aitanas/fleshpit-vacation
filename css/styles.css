@@ -10,3 +10,11 @@
   height: 350px;
   padding-top: 10rem;
 }
+
+.container {
+  background-color: white;
+}
+
+body {
+  background-color: rgb(128, 55, 55);
+}
